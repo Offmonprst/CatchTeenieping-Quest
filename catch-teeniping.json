@@ -1,0 +1,940 @@
+[
+  {
+     "index": 0,
+     "name": "Romiping",
+     "image": "S5-Teeniping/Romiping.jpg",
+     "from": "Star Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/romi"
+  },
+ {
+     "index": 1,
+     "name": "Heartsping S1",
+     "image": "S1-Teeniping/Heartsping-S1.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
+  },
+  {
+     "index": 2,
+     "name": "Dadaping",
+     "image": "S1-Teeniping/Dadaping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/dadaping"
+  },
+  {
+     "index": 3,
+     "name": "Gogoping",
+     "image": "S1-Teeniping/Gogoping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/gogoping"
+  },
+  {
+     "index": 4,
+     "name": "Chachaping",
+     "image": "S1-Teeniping/Chachaping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/chachaping"
+  },
+  {
+     "index": 5,
+     "name": "Lalaping",
+     "image": "S1-Teeniping/Lalaping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/lalaping"
+  },
+  {
+     "index": 6,
+     "name": "Happyping",
+     "image": "S1-Teeniping/Happyping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/happyping"
+  },
+  {
+     "index": 7,
+     "name": "Kikiping",
+     "image": "S1-Teeniping/Kikiping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/kikiping"
+  },
+  {
+     "index": 8,
+     "name": "Charmping",
+     "image": "S1-Teeniping/Charmping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/charmping"
+  },
+  {
+     "index": 9,
+     "name": "Shyping",
+     "image": "S1-Teeniping/Shyping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/shyping"
+  },
+   {
+     "index": 10,
+     "name": "Dareping",
+     "image": "S1-Teeniping/Dareping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/dareping"
+  },
+  {
+     "index": 11,
+     "name": "Blankping",
+     "image": "S1-Teeniping/Blankping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/blankping"
+  },
+  {
+     "index": 12,
+     "name": "Dreamping",
+     "image": "S1-Teeniping/Dreamping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/dreamping"
+  },
+  {
+     "index": 13,
+     "name": "Weeping",
+     "image": "S1-Teeniping/Weeping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/weeping"
+  },
+  {
+     "index": 14,
+     "name": "Moseyping",
+     "image": "S1-Teeniping/Moseyping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/moseyping"
+  },
+  {
+     "index": 15,
+     "name": "Mimicping",
+     "image": "S1-Teeniping/Mimicping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/mimicping"
+  },
+  {
+     "index": 16,
+     "name": "Narrping",
+     "image": "S1-Teeniping/Narrping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/narrping"
+  },
+  {
+     "index": 17,
+     "name": "Spookping",
+     "image": "S1-Teeniping/Spookping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/spookping"
+  },
+  {
+     "index": 18,
+     "name": "Tutuping",
+     "image": "S1-Teeniping/Tutuping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/tutuping"
+  },
+  {
+     "index": 19,
+     "name": "Goodping",
+     "image": "S1-Teeniping/Goodping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/goodping"
+  },
+  {
+     "index": 20,
+     "name": "Tweetping",
+     "image": "S1-Teeniping/Tweetping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/tweetping"
+  },
+  {
+     "index": 21,
+     "name": "Allmineping",
+     "image": "S1-Teeniping/Allmineping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/allmineping"
+  },
+  {
+     "index": 22,
+     "name": "Roarping",
+     "image": "S1-Teeniping/Roarping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/roarping"
+  },
+  {
+     "index": 23,
+     "name": "Nonoping",
+     "image": "S1-Teeniping/Nonoping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/nonoping"
+  },
+  {
+     "index": 24,
+     "name": "Luvping",
+     "image": "S1-Teeniping/Luvping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/luvping"
+  },
+  {
+     "index": 25,
+     "name": "Coolping",
+     "image": "S1-Teeniping/Coolping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/coolping"
+  },
+  {
+     "index": 26,
+     "name": "Artping",
+     "image": "S1-Teeniping/Artping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/artping"
+  },
+  {
+     "index": 27,
+     "name": "Heavyping",
+     "image": "S1-Teeniping/Heavyping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heavyping"
+  },
+  {
+     "index": 28,
+     "name": "Oppoping",
+     "image": "S1-Teeniping/Oppoping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/oppoping"
+  },
+  {
+     "index": 29,
+     "name": "Zipping",
+     "image": "S1-Teeniping/Zipping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/zipping"
+  },
+  {
+     "index": 30,
+     "name": "Bebeping",
+     "image": "S1-Teeniping/Bebeping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/bebeping"
+  },
+  {
+     "index": 31,
+     "name": "Sleeping",
+     "image": "S1-Teeniping/Sleeping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sleeping"
+  },
+  {
+     "index": 32,
+     "name": "Curieping",
+     "image": "S1-Teeniping/Curieping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/curieping"
+  },
+  {
+     "index": 33,
+     "name": "Toyping",
+     "image": "S1-Teeniping/Toyping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/toyping"
+  },
+  {
+     "index": 34,
+     "name": "Wannabeping",
+     "image": "S1-Teeniping/Wannabeping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/wannabeping"
+  },
+  {
+     "index": 35,
+     "name": "Floraping",
+     "image": "S1-Teeniping/Floraping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/floraping"
+  },
+  {
+     "index": 36,
+     "name": "Noriping",
+     "image": "https://catchteenieping.fandom.com/wiki/noriping",
+     "from": "Catch! Teenieping",
+     "detail": "S1-Teeniping/Noriping.jpg"
+  },
+  {
+     "index": 37,
+     "name": "Noraping",
+     "image": "S1-Teeniping/Noraping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/noraping"
+  },
+  {
+     "index": 38,
+     "name": "Sighping",
+     "image": "S1-Teeniping/Sighping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sighping"
+  },
+  {
+     "index": 39,
+     "name": "Shushping",
+     "image": "S1-Teeniping/Shushping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/shushping"
+  },
+  {
+     "index": 40,
+     "name": "Freezeping",
+     "image": "S1-Teeniping/Freezeping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/freezeping"
+  },
+  {
+     "index": 41,
+     "name": "Sparkping",
+     "image": "S1-Teeniping/Sparkping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sparkping"
+  },
+  {
+     "index": 42,
+     "name": "Aloneping",
+     "image": "S1-Teeniping/Aloneping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/aloneping"
+  },
+  {
+     "index": 43,
+     "name": "Egoping",
+     "image": "S1-Teeniping/Egoping.png",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/egoping"
+  },
+  {
+     "index": 44,
+     "name": "Giggleping",
+     "image": "S1-Teeniping/Giggleping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/giggleping"
+  },
+  {
+     "index": 45,
+     "name": "Stickping",
+     "image": "S1-Teeniping/Stickping.jpg",
+     "from": "Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/stickping"
+  },
+  {
+     "index": 46,
+     "name": "Heartsping S2",
+     "image": "S2-Teeniping/Heartsping-S2.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
+  },
+  {
+     "index": 47,
+     "name": "Joahping",
+     "image": "S2-Teeniping/Joahping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/joahping"
+  },
+  {
+     "index": 48,
+     "name": "Teeheeping",
+     "image": "S2-Teeniping/Teeheeping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/teeheeping"
+  },
+  {
+     "index": 49,
+     "name": "Trustping",
+     "image": "S2-Teeniping/Trustping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/trustping"
+  },
+  {
+     "index": 50,
+     "name": "Tickleping",
+     "image": "S2-Teeniping/Tickleping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/tickleping"
+  },
+  {
+     "index": 51,
+     "name": "Owwping",
+     "image": "S2-Teeniping/Owwping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/owwping"
+  },
+  {
+     "index": 52,
+     "name": "Wishping",
+     "image": "S2-Teeniping/Wishping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/wishping"
+  },
+  {
+     "index": 53,
+     "name": "Yummyping",
+     "image": "S2-Teeniping/Yummyping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/yummyping"
+  },
+  {
+     "index": 54,
+     "name": "Timidping",
+     "image": "S2-Teeniping/Timidping.png",
+     "from": "Twinkle Catch! Teeniepingg",
+     "detail": "https://catchteenieping.fandom.com/wiki/timidping"
+  },
+  {
+     "index": 55,
+     "name": "Cozyping",
+     "image": "S2-Teeniping/Cozyping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/cozyping"
+  },
+  {
+     "index": 56,
+     "name": "Tidyping",
+     "image": "S2-Teeniping/Tidyping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/tidyping"
+  },
+  {
+     "index": 57,
+     "name": "Memoping",
+     "image": "S2-Teeniping/Memoping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/memoping"
+  },
+  {
+     "index": 58,
+     "name": "Ladyping",
+     "image": "S2-Teeniping/Ladyping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/ladyping"
+  },
+  {
+     "index": 59,
+     "name": "Buddyping",
+     "image": "S2-Teeniping/Buddyping.jpg",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/buddyping"
+  },
+  {
+     "index": 60,
+     "name": "Balletping",
+     "image": "S2-Teeniping/Balletping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/balletping"
+  },
+  {
+     "index": 61,
+     "name": "Giftping",
+     "image": "S2-Teeniping/Giftping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/giftping"
+  },
+  {
+     "index": 62,
+     "name": "Sculptping",
+     "image": "S2-Teeniping/Sculptping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sculptping"
+  },
+  {
+     "index": 63,
+     "name": "Wonderping",
+     "image": "S2-Teeniping/Wonderping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/wonderping"
+  },
+  {
+     "index": 64,
+     "name": "Maskping",
+     "image": "S2-Teeniping/Maskping.png",
+     "from": "Twinkle Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/maskping"
+  },
+  {
+     "index": 65,
+     "name": "Heartsping S3",
+     "image": "S3-Teeniping/Heartsping-S3.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
+  },
+  {
+     "index": 66,
+     "name": "Nanaping",
+     "image": "S3-Teeniping/Nanaping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/nanaping"
+  },
+  {
+     "index": 67,
+     "name": "Okeydokeyping",
+     "image": "S3-Teeniping/Okeydokeyping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/okeydokeyping"
+  },
+  {
+     "index": 68,
+     "name": "Trueping",
+     "image": "S3-Teeniping/Trueping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/trueping"
+  },
+  {
+     "index": 69,
+     "name": "Hurryping",
+     "image": "S3-Teeniping/Hurryping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/hurryping"
+  },
+  {
+     "index": 70,
+     "name": "Yumyumping",
+     "image": "S3-Teeniping/Yumyumping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/yumyumping"
+  },
+  {
+     "index": 71,
+     "name": "Hotping",
+     "image": "S3-Teeniping/Hotping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/hotping"
+  },
+  {
+     "index": 72,
+     "name": "Cureping",
+     "image": "S3-Teeniping/Cureping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/cureping"
+  },
+  {
+     "index": 73,
+     "name": "Nurseping",
+     "image": "S3-Teeniping/Nurseping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/nursepings"
+  },
+  {
+     "index": 74,
+     "name": "Handping",
+     "image": "S3-Teeniping/Handyping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/handping"
+  },
+  {
+     "index": 75,
+     "name": "Wizping",
+     "image": "S3-Teeniping/Wizping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/wizping"
+  },
+  {
+     "index": 76,
+     "name": "Fashionping",
+     "image": "S3-Teeniping/Fashionping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/fashionping"
+  },
+  {
+     "index": 77,
+     "name": "Justiceping",
+     "image": "S3-Teeniping/Justiceping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/justiceping"
+  },
+  {
+     "index": 78,
+     "name": "Splashping",
+     "image": "S3-Teeniping/Shlashping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/splashping"
+  },
+  {
+     "index": 79,
+     "name": "Partyping",
+     "image": "S3-Teeniping/Partyping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/partyping"
+  },
+  {
+     "index": 80,
+     "name": "Styleping",
+     "image": "S3-Teeniping/Styleping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/styleping"
+  },
+  {
+     "index": 81,
+     "name": "Huffyping",
+     "image": "S3-Teeniping/Huffyping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/huffyping"
+  },
+  {
+     "index": 82,
+     "name": "Ariaping",
+     "image": "S3-Teeniping/Ariaping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/ariaping"
+  },
+  {
+     "index": 83,
+     "name": "Twirlping",
+     "image": "S3-Teeniping/Twirlping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/twirlping"
+  },
+  {
+     "index": 84,
+     "name": "Luckyping",
+     "image": "S3-Teeniping/Luckyping.jpg",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/luckyping"
+  },
+  {
+     "index": 85,
+     "name": "Onlyping",
+     "image": "S3-Teeniping/Onlyping.png",
+     "from": "Secret Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/onlyping"
+  },
+  {
+     "index": 86,
+     "name": "Heartsping S4",
+     "image": "S4-Teeniping/Heartsping-S4.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
+  },
+  {
+     "index": 87,
+     "name": "Shashaping",
+     "image": "S4-Teeniping/Shashaping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/shashaping"
+  },
+  {
+     "index": 88,
+     "name": "Jellyping",
+     "image": "S4-Teeniping/Jellyping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/jellyping"
+  },
+  {
+     "index": 89,
+     "name": "Fluffyping",
+     "image": "S4-Teeniping/Fluffyping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/fluffyping"
+  },
+  {
+     "index": 90,
+     "name": "Candyping",
+     "image": "S4-Teeniping/Candyping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/candyping"
+  },
+  {
+     "index": 91,
+     "name": "Meringueping",
+     "image": "S4-Teeniping/Meringueping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/meringueping"
+  },
+  {
+     "index": 92,
+     "name": "Sandping",
+     "image": "S4-Teeniping/Sandping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sandping"
+  },
+  {
+     "index": 93,
+     "name": "Waffleping",
+     "image": "S4-Teeniping/Waffleping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/waffleping"
+  },
+  {
+     "index": 94,
+     "name": "Donutping",
+     "image": "S4-Teeniping/Donutping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/donutping"
+  },
+  {
+     "index": 95,
+     "name": "Hotcakeping",
+     "image": "S4-Teeniping/Hotcakeping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/hotcakeping"
+  },
+  {
+     "index": 96,
+     "name": "Lolliping",
+     "image": "S4-Teeniping/Lolliping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/lolliping"
+  },
+  {
+     "index": 97,
+     "name": "Cupping",
+     "image": "S4-Teeniping/Cupping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/cupping"
+  },
+  {
+     "index": 98,
+     "name": "Muffping",
+     "image": "S4-Teeniping/Muffping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/muffping"
+  },
+  {
+     "index": 99,
+     "name": "Macaping",
+     "image": "S4-Teeniping/Macaping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/macaping"
+  },
+  {
+     "index": 100,
+     "name": "Mallowping",
+     "image": "S4-Teeniping/Mallowping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/mallowping"
+  },
+  {
+     "index": 101,
+     "name": "Iceflakeping",
+     "image": "S4-Teeniping/Iceflakeping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/onlyping"
+  },
+  {
+     "index": 102,
+     "name": "Yogurtping",
+     "image": "S4-Teeniping/Yogurtping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/yogurtping"
+  },
+  {
+     "index": 103,
+     "name": "Puddingping",
+     "image": "S4-Teeniping/Puddingping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/puddingping"
+  },
+  {
+     "index": 104,
+     "name": "Chocoping",
+     "image": "S4-Teeniping/Chocoping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/chocoping"
+  },
+  {
+     "index": 105,
+     "name": "Tangyping",
+     "image": "S4-Teeniping/Tangyping.jpg",
+     "from": "Dessert Catch! Teeniepingg",
+     "detail": "https://catchteenieping.fandom.com/wiki/tangyping"
+  },
+  {
+     "index": 106,
+     "name": "Sweetping",
+     "image": "S4-Teeniping/Sweetping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sweetping"
+  },
+  {
+     "index": 107,
+     "name": "Puffping",
+     "image": "S4-Teeniping/Puffping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/puffping"
+  },
+  {
+     "index": 108,
+     "name": "Heartsping",
+     "image": "S5-Teeniping/Heartsping-S5.png",
+     "from": "Star Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
+  },
+  {
+     "index": 109,
+     "name": "Simmerping",
+     "image": "S5-Teeniping/Simmerping.png",
+     "from": "Star Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/simmerping"
+  },
+  {
+     "index": 110,
+     "name": "Sparkleping",
+     "image": "S5-Teeniping/Sparkleping.png",
+     "from": "Star Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sparkleping"
+  },
+  {
+     "index": 111,
+     "name": "Twinkleping",
+     "image": "S5-Teeniping/Twinkleping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/twinkleping"
+  },
+  {
+     "index": 112,
+     "name": "Hopping",
+     "image": "S5-Teeniping/Hopping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/hopping"
+  },
+  {
+     "index": 113,
+     "name": "Hulaping",
+     "image": "S5-Teeniping/Hulaping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/hulaping"
+  },
+  {
+     "index": 114,
+     "name": "Giverping",
+     "image": "S5-Teeniping/Giverping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/giverping"
+  },
+  {
+     "index": 115,
+     "name": "Petitping",
+     "image": "S5-Teeniping/Petitping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/petitping"
+  },
+  {
+     "index": 116,
+     "name": "Dazzleping",
+     "image": "S5-Teeniping/Dazzleping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/dazzleping"
+  },
+  {
+     "index": 117,
+     "name": "Dingdongping",
+     "image": "S5-Teeniping/Dingdongping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/dingdongping"
+  },
+  {
+     "index": 118,
+     "name": "Mightyping",
+     "image": "S5-Teeniping/Mightyping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/mightyping"
+  },
+  {
+     "index": 119,
+     "name": "Bellaping",
+     "image": "S5-Teeniping/Bellaping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/bellaping"
+  },
+  {
+     "index": 120,
+     "name": "Ellaping",
+     "image": "S5-Teeniping/Ellaping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/ellaping"
+  },
+  {
+     "index": 121,
+     "name": "Lucyping",
+     "image": "S5-Teeniping/Lucyping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/lucyping"
+  },
+  {
+     "index": 122,
+     "name": "Stickerping",
+     "image": "S5-Teeniping/Stickerping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/stickerping"
+  },
+  {
+     "index": 123,
+     "name": "Snuggyping",
+     "image": "S5-Teeniping/Snuggyping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/snuggyping"
+  },
+  {
+     "index": 124,
+     "name": "Puffping",
+     "image": "S5-Teeniping/Puffping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/puffping"
+  },
+  {
+     "index": 125,
+     "name": "Togetherping",
+     "image": "S5-Teeniping/Togetherping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/togetherping"
+  },
+  {
+     "index": 126,
+     "name": "Puffping",
+     "image": "S5-Teeniping/Puffping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/puffping"
+  },
+  {
+     "index": 127,
+     "name": "Swayping",
+     "image": "S5-Teeniping/Swayping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/swayping"
+  },
+  {
+     "index": 128,
+     "name": "Allureping",
+     "image": "S5-Teeniping/Allureping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/allureping"
+  },
+  {
+     "index": 129,
+     "name": "Doremiping",
+     "image": "S5-Teeniping/Doremiping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/doremiping"
+  },
+  {
+     "index": 130,
+     "name": "Sneakyping",
+     "image": "S5-Teeniping/Sneakyping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/sneakyping"
+  },
+  {
+     "index": 131,
+     "name": "Kissyping",
+     "image": "S5-Teeniping/Kissyping.png",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/kissyping"
+  },
+  {
+     "index": 132,
+     "name": "Princeping",
+     "image": "S4-Teeniping/Princeping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/princeping"
+  },
+  {
+     "index": 133,
+     "name": "Auroraping",
+     "image": "S4-Teeniping/Auroraping.jpg",
+     "from": "Dessert Catch! Teenieping",
+     "detail": "https://catchteenieping.fandom.com/wiki/auroraping"
+  }
+]
