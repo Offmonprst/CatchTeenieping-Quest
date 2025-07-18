@@ -869,72 +869,58 @@
   },
   {
      "index": 124,
-     "name": "Puffping",
-     "image": "S5-Teeniping/Puffping.jpg",
-     "from": "Dessert Catch! Teenieping",
-     "detail": "https://catchteenieping.fandom.com/wiki/puffping"
-  },
-  {
-     "index": 125,
      "name": "Togetherping",
      "image": "S5-Teeniping/Togetherping.jpg",
      "from": "Dessert Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/togetherping"
   },
   {
-     "index": 126,
-     "name": "Puffping",
-     "image": "S5-Teeniping/Puffping.jpg",
-     "from": "Dessert Catch! Teenieping",
-     "detail": "https://catchteenieping.fandom.com/wiki/puffping"
-  },
-  {
-     "index": 127,
+     "index": 125,
      "name": "Swayping",
      "image": "S5-Teeniping/Swayping.png",
-     "from": "Dessert Catch! Teenieping",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/swayping"
   },
   {
-     "index": 128,
+     "index": 126,
      "name": "Allureping",
      "image": "S5-Teeniping/Allureping.jpg",
-     "from": "Dessert Catch! Teenieping",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/allureping"
   },
   {
-     "index": 129,
+     "index": 127,
      "name": "Doremiping",
      "image": "S5-Teeniping/Doremiping.jpg",
-     "from": "Dessert Catch! Teenieping",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/doremiping"
   },
   {
-     "index": 130,
+     "index": 128,
      "name": "Sneakyping",
      "image": "S5-Teeniping/Sneakyping.jpg",
-     "from": "Dessert Catch! Teenieping",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/sneakyping"
   },
   {
-     "index": 131,
+     "index": 129,
      "name": "Kissyping",
      "image": "S5-Teeniping/Kissyping.png",
-     "from": "Dessert Catch! Teenieping",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/kissyping"
   },
   {
-     "index": 132,
+     "index": 130,
      "name": "Princeping",
-     "image": "S4-Teeniping/Princeping.jpg",
-     "from": "Dessert Catch! Teenieping",
+     "image": "S5-Teeniping/Princeping.jpg",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/princeping"
   },
   {
-     "index": 133,
+     "index": 131,
      "name": "Auroraping",
-     "image": "S4-Teeniping/Auroraping.jpg",
-     "from": "Dessert Catch! Teenieping",
+     "image": "S5-Teeniping/Auroraping.jpg",
+     "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/auroraping"
   }
 ]
