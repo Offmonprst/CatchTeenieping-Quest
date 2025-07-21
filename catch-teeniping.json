@@ -8,7 +8,7 @@
   },
  {
      "index": 1,
-     "name": "Heartsping S1",
+     "name": "Heartsping",
      "image": "S1-Teeniping/Heartsping-S1.png",
      "from": "Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
@@ -323,7 +323,7 @@
   },
   {
      "index": 46,
-     "name": "Heartsping S2",
+     "name": "Diamond Heartsping",
      "image": "S2-Teeniping/Heartsping-S2.jpg",
      "from": "Twinkle Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
@@ -456,7 +456,7 @@
   },
   {
      "index": 65,
-     "name": "Heartsping S3",
+     "name": "Flora Heartsping",
      "image": "S3-Teeniping/Heartsping-S3.jpg",
      "from": "Secret Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
@@ -603,7 +603,7 @@
   },
   {
      "index": 86,
-     "name": "Heartsping S4",
+     "name": "Berry Heartsping",
      "image": "S4-Teeniping/Heartsping-S4.jpg",
      "from": "Dessert Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
@@ -625,7 +625,7 @@
   {
      "index": 89,
      "name": "Fluffyping",
-     "image": "S4-Teeniping/Fluffyping.png",
+     "image": "S4-Teeniping/Fluffyping.jpg",
      "from": "Dessert Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/fluffyping"
   },
@@ -757,7 +757,7 @@
   },
   {
      "index": 108,
-     "name": "Heartsping",
+     "name": "Star Heartsping",
      "image": "S5-Teeniping/Heartsping-S5.png",
      "from": "Star Catch! Teenieping",
      "detail": "https://catchteenieping.fandom.com/wiki/heartsping"
