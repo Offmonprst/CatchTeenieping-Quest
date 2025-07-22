@@ -42,7 +42,7 @@
         "game_complete_message": "Congratulations! You have completed all guesses! Your final score: Correct {correctCount}, Incorrect {incorrectCount}.",
         "timersecond": "second",
         "donate": "Donate us",
-        "report": " laporkan masalah",
+        "report": " Report issue",
         "check_button": "Check Answer",
         "next_button": "Next",
         "time_left_display": "Time Left:",
