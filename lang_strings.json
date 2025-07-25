@@ -26,9 +26,9 @@
         "question": "Teenieping apa ini?",
         "donate": "Donasi",
         "report": "Laporkan Bug",
-        "guess_picture_game_nav": "Tebak Gambar",
-        "scramble_word_game_nav": "Susun Kata",
-        "scramble_game_title": "Susun Kata",
+        "guess_picture_game_nav": "Teenieping apa ini?",
+        "scramble_word_game_nav": "Teenieping apa ini?",
+        "scramble_game_title": "Teenieping apa ini?",
         "game_over_word_display": "GAME OVER!"
     },
     "en": {
@@ -58,9 +58,9 @@
         "question": "What is this Teenieping?",
         "donate": "Donate Us",
         "report": "Report Bug",
-        "guess_picture_game_nav": "Guess Picture",
-        "scramble_word_game_nav": "Scramble Word",
-        "scramble_game_title": "Scramble Word",
+        "guess_picture_game_nav": "What is this Teenieping?",
+        "scramble_word_game_nav": "What is this Teenieping?",
+        "scramble_game_title": "What is this Teenieping?",
         "game_over_word_display": "GAME OVER!"
     }
 }
